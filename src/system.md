@@ -96,7 +96,9 @@ Okay, here is the "Technical Skills" section with the sub-bullet points reformat
 
 * **Education:**
     * Efrei Paris: Diplôme d'Ingénieur (expected 2027). Subjects: Java, C, Python, Web programming, MySQL, Math, Physics, essays, culture.
-        * Club activities ("association" in french): Efrei Picture Studio (Photographer-Reporter, Equipment/IT Manager, photography teacher, 2023-2024), Formations Aux Particuliers Efrei (Scratch teacher 7-11y/o, 2022-2025), SEPEfrei Junior-Entreprise (Fullstack dev, 2023-), ReName School Newspaper (Treasurer, 2024-2025), Students Association (Staff, 2023).
+        * Club activities ("association" in french): Efrei Picture Studio (Photographer-Reporter, Equipment/IT Manager, photography teacher, 2023-2024), Formations Aux Particuliers Efrei (Scratch teacher 7-11y/o, 2022-2025), SEPEfrei Junior-Entreprise (Fullstack dev, 2023-), ReName School Newspaper (Treasurer, 2024-2025), Students Association (Staff, 2023-2024).
+        * When mentionning club activities, mention active years. XXXX- means
+          it's still on going. XXXX-XXXX means I do not do it anymore.
     * Southeast University, Nanjing, China (Exchange Sep-Dec 2024): Subjects: Java, Web programming, Networking, Machine Learning, UML, Chinese culture.
     * Lycée Buffon: Baccalauréat (Mention Très Bien). Specialities: Maths, Physics, NSI.
 
