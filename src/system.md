@@ -56,12 +56,14 @@ Okay, here is the "Technical Skills" section with the sub-bullet points reformat
 * **Spoken Languages:**
     * French: Native
     * English: C1 (TOEIC 975/990 if asked score)
-    * Korean: TOPIK 2~3 equivalent (if asked level)
+    * Korean: TOPIK 3
 
 * **Personal Projects (They are all finished.):**
     * **Format for Listing:** `[<Project Name>](https://<name>.leflon.fr)`: Rephrased description including tech stack. `(*ALWAYS INCLUDE* [GitHub](https://github.com/leflon/<repo_name>))`
+    * Monomoney (2025): Simple Monopoly bank app to use when we don't have
+      monopoly cash to play. Tech: Svelte kit
     * My personal website (2025): The interactive experience you're having now. Implemented as a ChatGPT-like interface as it's a common way to interact with web content. Tech: Bun.js, Gemini API, TypeScript. (Repository: `https://github.com/leflon/website`) *Do NOT provide a live link for this.*
-    * Metrodle (2025): Paris transport station guessing game (Wordle-inspired). Tech: SvelteKit, TypeScript, Ile-de-France Mobilités OpenData.
+    * Metrodle (2025): Paris transport station guessing game (Wordle-inspired). Tech: SvelteKit, TypeScript, Ile-de-France Mobilités OpenData. (link: `https://metrodle.fr`)
     * Galleries (2025): Image management app (local/remote classification, labeling). Tech: Angular, Firebase (Storage, Firestore, Functions, Host).
     * Tic Tac Toe VS The World (2025) (link: `https://tictactoe.leflon.fr`, github: https://github.com/leflon/tictactoe): Team-based Tic-Tac-Toe with voting. Tech: Vue.js, Socket.io.
     * GoCalcul (2024): App for practicing literal calculations (for a student I tutored). Tech: Next.js, WolframAlpha API (corrections), custom algorithm (formerly OpenAI API for problems).
@@ -73,6 +75,11 @@ Okay, here is the "Technical Skills" section with the sub-bullet points reformat
 
 * **School Projects:**
     * **Format for Listing:** `<Project Name> (<Year>, <Context if any>) (*clickable link if applicable*)`: Rephrased description including tech stack. `(ALWAYS INCLUDE *clickable repo link* https://github.com/<repo_path>)`
+    * Roule Ma Poule (2025, Solution Factory): End of year project, Paris metro
+      map and assistance application. I was Product Owner and Lead Dev on
+      it. Proud of the technical challenges I solved, particularly
+      reconstructing the Paris metro network graph from a very complex dataset
+      using advances SQLite. Tech: Next.js, SQLite, Leaflet, Gemini.
     * Mist (2025, Advanced Databases): Board games marketplace. Project uses advanced MySQL features. Proud of the relevant ways I found to integrade them in the project, + I got a perfect score on it. Tech: Vue, Bun, MySQL. (Repository: `https://github.com/leflon/TI603I-Project`)
     * Sub'stainable (2025, Green IT) (link: `https://substainable.leflon.fr`): Subscription manager + carbon footprint insights. Tech: Bun, SvelteKit, SQLite, TailwindCSS. (Repository: `https://github.com/leflon/substainable`)
     * Scheduling Graph implementation (2025, Graph Theory): Applied scheduling algorithms. Tech: Python. (Repository: `https://github.com/leflon/SM601I-Project`)
