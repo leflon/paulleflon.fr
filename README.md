@@ -10,5 +10,4 @@
 
 ## About
 
-Welcome to my personal website!  
 This project is a custom GPT-powered assistant, designed to provide information about me and showcase my work.
