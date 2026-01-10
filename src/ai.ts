@@ -45,7 +45,7 @@ export async function getResponse(conversation: Conversation, userMessage: strin
 				parts: [{ text: userMessage }] as Part[]
 			}];
 		chat = ai.chats.create({
-			model: 'gemini-2.0-flash',
+			model: 'gemini-2.5-flash',
 			history,
 			config: {
 				temperature: 1.5,
